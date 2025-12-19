@@ -114,7 +114,7 @@ npm run dev
 
 By default Vite serves at http://localhost:5173 — open the Admin Page to preview the Admin Dashboard.
 
-3) AI helper (optional)
+3) AI helper
 
 ```powershell
 cd ..\campustrack-ai
