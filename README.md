@@ -1,4 +1,4 @@
-# 🏫 CampusTrack – Intelligent Lost and Found Locator
+## CampusTrack – Intelligent Lost and Found Locator
 
 An AI-powered **Lost and Found management system** for campuses built using **Spring Boot (Java 21)**, **MySQL**, and **React + Tailwind**.  
 CampusTrack helps users **report lost items**, **upload images**, and later **match found items intelligently**.
@@ -139,13 +139,7 @@ This is a lightweight helper service/experiment environment for model-based matc
 
 ## 🧑‍💻 Contributors
 
-- Vivek L — main developer (@vivek8085)
-
+- Vivek Lokolakar — Developer (@vivek8085)
+- Suriyaganesh J T — Developer(@Snehachoudhary26)
+- Sneha Choudary — Developer(@Suriyaganesh-J-T)
 ---
-
-## 📜 License
-
-MIT — feel free to use, modify and distribute.
-
----
->>>>>>> cfd328f87b5941b06bf6d8383e0ea1da590190a9
