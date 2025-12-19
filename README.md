@@ -140,6 +140,6 @@ This is a lightweight helper service/experiment environment for model-based matc
 ## 🧑‍💻 Contributors
 
 - Vivek Lokolakar — Developer (@vivek8085)
-- Suriyaganesh J T — Developer(@Snehachoudhary26)
-- Sneha Choudary — Developer(@Suriyaganesh-J-T)
+- Suriyaganesh J T — Developer(@Suriyaganesh-J-T)
+- Sneha Choudary — Developer(@Snehachoudhary26)
 ---
